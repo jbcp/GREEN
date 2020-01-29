@@ -32,4 +32,4 @@ GREEN은 시리얼 포트를 가지고 있는 다수개의 혈압기의 결과�
 ![printing form](/green4.png)
 
 ## Contact to developer(s)
-Jhyoung lee - jhlee@jbcp.kr
+ [JIHYOUNG LEE](https://github.com/jhlee/) - jhlee@jbcp.kr
